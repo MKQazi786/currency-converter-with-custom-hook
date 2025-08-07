@@ -1,5 +1,3 @@
-https://www.youtube.com/watch?v=JcMx8JVbvDw
-
 Assalam u Alaikum💖,
 My name is Muhammad Khubaib, and this is my Currency Converter website built using a custom React hook. As you can see from the thumbnail, this project features my own custom hook, and it’s the first time I’ve created a website using a custom React hook.
 
